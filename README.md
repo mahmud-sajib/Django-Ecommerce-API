@@ -19,7 +19,7 @@ DRF-Ecommerce-API provides API endpoints to Sell Physical Products through Paypa
 
 ## Features
 
-A few of the things you can do with Classified Ads:
+A few of the things you can do with this app:
 
 * Admin can create/update/delete Product Category
 * Admin can create/update/delete Product Detail
