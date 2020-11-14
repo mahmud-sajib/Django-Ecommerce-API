@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-  An Ecommerce Store backend to sell products. Built with Python/Django Rest Framework.
+  An Ecommerce Store Backend to Sell Products. It accepts Paypal/Stripe Payment. Built with Python/Django Rest Framework.
 </h3>
 
 ## Table of Contents
@@ -15,7 +15,7 @@
 
 ## Introduction
 
-DRF-Ecommerce-API provides API endpoints to sell physical products. Built with Python/Django and 100% free to use.
+DRF-Ecommerce-API provides API endpoints to Sell Physical Products through Paypal/Stripe Payment. Built with Python/Django and 100% free to use.
 
 ## Features
 
